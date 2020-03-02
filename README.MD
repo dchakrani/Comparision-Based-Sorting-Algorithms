@@ -12,6 +12,15 @@ In order to run this application you must do the following things installed on y
     -IDE to run your application (preferably Eclipse).
 
 #Overview:
+Implemented the following sorting algorithms and compared them:
+
+Insertion sort
+Merge sort
+Heapsort [vector based, and inserted one item at a time]
+In-place quicksort (any random item or the first or the last item of the input can be pivot).
+Modified quicksort
+Used median-of-three as pivot.
+For small sub-problem of size ≤ 10,  used insertion sort.
 
 ##Project folder layout
 
